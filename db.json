@@ -1,113 +1,73 @@
 [
     {
-        "tenant": "MP",
-        "locale": "nl-NL",
         "userId": 40004210,
-        "conversationId": "1n:4mjf128:2gbwwxpqq",
         "reportedUserId": 20003457,
         "reason": "SCAM",
         "subReason": "ATTEMPTED_SCAM",
-        "creationDate": "2021-09-06T10:30:06Z",
-        "id": 256
+        "creationDate": "2021-09-06T10:30:06Z"
     },
     {
-        "tenant": "MP",
-        "locale": "nl-NL",
         "userId": 40004214,
-        "conversationId": "m:4mjf128:2gbwwxpqq",
         "reportedUserId": 17833679,
         "reason": "SPAM",
         "subReason": "COMMERCIAL",
-        "creationDate": "2021-09-06T10:26:16Z",
-        "id": 255
+        "creationDate": "2021-09-06T10:26:16Z"
     },
     {
-        "tenant": "MP",
-        "locale": "nl-NL",
         "userId": 40004210,
-        "conversationId": "c:4v02xw9:2g9zwhwsn",
         "reportedUserId": 18887010,
         "reason": "SCAM",
         "subReason": "ATTEMPTED_SCAM",
-        "creationDate": "2021-09-03T15:00:20Z",
-        "id": 254
+        "creationDate": "2021-09-03T15:00:20Z"
     },
     {
-        "tenant": "MP",
-        "locale": "nl-NL",
         "userId": 40004210,
-        "conversationId": "c:4v02xw9:2g9zwhwsn",
         "reportedUserId": 18887010,
         "reason": "SCAM",
         "subReason": "ATTEMPTED_SCAM",
-        "creationDate": "2021-09-03T15:00:12Z",
-        "id": 253
+        "creationDate": "2021-09-03T15:00:12Z"
     },
     {
-        "tenant": "MP",
-        "locale": "nl-NL",
         "userId": 40004210,
-        "conversationId": "c:4v02xw9:2g9zwhwsn",
         "reportedUserId": 18887010,
         "reason": "SCAM",
         "subReason": "ATTEMPTED_SCAM",
-        "creationDate": "2021-09-03T14:59:12Z",
-        "id": 252
+        "creationDate": "2021-09-03T14:59:12Z"
     },
     {
-        "tenant": "MP",
-        "locale": "nl-NL",
         "userId": 40004210,
-        "conversationId": "c:4v02xw9:2g9zwhwsn",
         "reportedUserId": 18887010,
         "reason": "SCAM",
         "subReason": "ATTEMPTED_SCAM",
-        "creationDate": "2021-09-03T14:58:50Z",
-        "id": 251
+        "creationDate": "2021-09-03T14:58:50Z"
     },
     {
-        "tenant": "MP",
-        "locale": "nl-NL",
         "userId": 40004210,
-        "conversationId": "c:4v02xw9:2g9zwhwsn",
         "reportedUserId": 18887010,
         "reason": "SCAM",
         "subReason": "PHISHING",
-        "creationDate": "2021-09-03T14:58:29Z",
-        "id": 250
+        "creationDate": "2021-09-03T14:58:29Z"
     },
     {
-        "tenant": "MP",
-        "locale": "nl-NL",
         "userId": 40004210,
-        "conversationId": "c:4v02xw9:2g9zwhwsn",
         "reportedUserId": 18887010,
         "reason": "SCAM",
         "subReason": "PHISHING",
-        "creationDate": "2021-09-03T14:58:17Z",
-        "id": 249
+        "creationDate": "2021-09-03T14:58:17Z"
     },
     {
-        "tenant": "MP",
-        "locale": "nl-NL",
         "userId": 40002844,
-        "conversationId": "1:2p46dsg:2g62pcl96",
         "reportedUserId": 40002506,
         "reason": "SCAM",
         "subReason": "PHISHING",
         "description": "",
-        "creationDate": "2021-09-03T14:57:41Z",
-        "id": 248
+        "creationDate": "2021-09-03T14:57:41Z"
     },
     {
-        "tenant": "MP",
-        "locale": "nl-NL",
         "userId": 40004210,
-        "conversationId": "c:4v02xw9:2g9zwhwsn",
         "reportedUserId": 18887010,
         "reason": "SCAM",
         "subReason": "ATTEMPTED_SCAM",
-        "creationDate": "2021-09-03T14:57:15Z",
-        "id": 247
+        "creationDate": "2021-09-03T14:57:15Z"
     }
 ]
